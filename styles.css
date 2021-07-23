@@ -375,7 +375,7 @@ section {
 }
 
 #socialContact img:hover {
-  transform: translateY(-2vh);
+  transform: scale(1.1);
 }
 
 #heart:hover {
